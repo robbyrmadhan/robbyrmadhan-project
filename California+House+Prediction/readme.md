@@ -1,4 +1,4 @@
-** About This Project**
+**About This Project**
 
 This project use 1990 California Census dataset to evaluate the performance and the predictive power of a model trained and tested on data collected from houses in Californian districts. And use this model to predict median house value in Californian districts, also try to understand how the different attributes can impact the house prices.
 
