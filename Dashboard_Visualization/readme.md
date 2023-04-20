@@ -5,7 +5,7 @@
 Laporan penjualan adalah salah satu hal yang paling penting dalam menjalankan bisnis. Tanpa laporan penjualan yang akurat, pemilik toko tidak akan bisa mengetahui apakah bisnisnya berjalan dengan baik atau buruk. Namun, membuat laporan penjualan yang akurat dan efisien dapat menjadi tugas yang sangat sulit dan memakan waktu. Sehingga membutuhkan Dashboard Laporan Penjualan yang dapat membantu pemilik toko mengumpulkan, menganalisis, dan memvisualisasikan data penjualan mereka dengan lebih mudah dan efisien.
 
 ## Dataset
-Visualisasi ini menggunakan dataset yang dikumpulkan di salah satu toko souvernir di Bandar Lampung. dataset tersebut berisikan catatan penjualan selama 2 bulan ( 20 Feb - 20 APR 2023
+Visualisasi ini menggunakan dataset yang dikumpulkan di salah satu toko souvernir di Bandar Lampung. dataset tersebut berisikan catatan penjualan selama 2 bulan ( 20 Feb - 20 APR 2023 )
 
 ## Link To Dashboard
 
