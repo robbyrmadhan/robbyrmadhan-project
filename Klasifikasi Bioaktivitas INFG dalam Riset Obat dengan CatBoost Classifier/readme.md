@@ -19,7 +19,7 @@ Model yang dikembangkan menunjukkan kinerja yang seimbang dan efektif:
 - Akurasi pada data validasi: 94.62%
 
 ## Artikel Medium
-Untuk informasi lebih mendalam tentang proyek ini, Anda dapat membaca artikel yang telah kami publikasikan di Medium. Artikel ini menyediakan penjelasan terperinci tentang pendekatan kami, metodologi, dan hasil yang kami capai. Artikel tersebut dapat diakses melalui [link ini](link).
+Untuk informasi lebih mendalam tentang proyek ini, Anda dapat membaca artikel yang telah kami publikasikan di Medium. Artikel ini menyediakan penjelasan terperinci tentang pendekatan kami, metodologi, dan hasil yang kami capai. Artikel tersebut dapat diakses melalui [link ini]([link](https://medium.com/@robbyhidayahramadhan9/fdefab720409)).
 
 
 ## Kontribusi
